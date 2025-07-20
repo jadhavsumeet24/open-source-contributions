@@ -14,8 +14,8 @@ This repo serves as a transparent record of my pull requests, the projects I’v
 
 | Date       | Repository & Link | PR Title | Description | Status |
 |------------|-------------------|----------|-------------|--------|
-| *(TBD)*    | [First Contributions](https://github.com/firstcontributions/first-contributions) | Added my name to Contributors.md | Practiced open-source workflow | Merged |
-| *(TBD)*    | [Public APIs](https://github.com/public-apis/public-apis) | Added API for XYZ | Contributed a new public API under [Category] | Merged |
+| 18 July 2025   | [First Contributions](https://github.com/firstcontributions/first-contributions) | Added my name to Contributors.md | Practiced open-source workflow | Merged |
+| 20 July 2025    | [Public APIs](https://github.com/public-apis/public-apis/pull/4451) | Added Water Data API to Environment section| Contributed new public API related to water quality | Merged |
 | *(TBD)*    | [Simple PHP Blog](https://github.com/bikash143/simple-blog-php) | Fixed indentation and added comments | PHP code cleanup | Merged |
 | *(More to come)* | - | - | - | - |
 
